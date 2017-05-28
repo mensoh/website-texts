@@ -1,0 +1,11 @@
+# How To Help?
+
+_Text for the Volunteer page if the website before the form_
+
+Security Without Borders aims at creating a community of tech people to help NGO, journalist and activists to improve their security. Here is I you can integrate this community and help:
+* **Join The Community**: the first step is to join the community by suscribing to the [mailing list](https://lists.securitywithoutborders.org/mailman/listinfo/swb-public) and creating an account on our public [Mattermost](https://chat.securitywithoutborders.org/]. We try to keep the mailing list low level mainly with announcement, so most of the discussion is on the Mattermost, feel free to introduce yourself there and join channels you are interested in.
+* **Suscribe as a volunteer**: we propose you to suscribe as volunteer with a short description of your skills so that we can contact you if we need people for a new project.
+* **Propose projects**: We are really interested in new ideas of how to help NGOs and activists. Feel free to propose your ideas on the [Town Square channel](https://chat.securitywithoutborders.org/community/channels/town-square) on Mattermost !
+* **Help with the Newsletter**: we send a regular newsletter intended for NGO/activists to keep updated about new threats. You can help to gather interesting news either on the [github repository](https://github.com/securitywithoutborders/newsletter/issues) or on the [Newsletter Mattermost channel](https://chat.securitywithoutborders.org/community/channels/newsletter)
+* **Make the link with local activists** : you may be in contact with activists or NGO around you who would need security help. You can help connecting them with the SWB community and find how we can help. Check our mission list, adn feel free to ask questions on Mattermost (but be careful of not sharing private information form them on the public Mattermost)
+* **Create a local SWB group** : local SWB groups have been created [in several cities over the worls](https://wiki.securitywithoutborders.org/index.php?title=Main_Page#Regular_Meet-ups_.2F_Local_Groups) with the idea of creating a human right tech community and try to help locally. You can start to see if there is a Mattermost channel for your area, or send an email on the newsletter to find people from your area.
