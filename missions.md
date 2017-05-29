@@ -14,12 +14,12 @@ Responsible: @sebgarcia (@cda, @tek, @nex)
 
 ## Assistance Requests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eu enim id libero convallis egestas. Vivamus faucibus sit amet orci vel tristique. Integer et bibendum lectus, a efficitur urna. Praesent et ligula non massa semper pretium. Sed ultrices justo libero, et semper elit tincidunt sit amet. Suspendisse quis arcu vitae dui ultrices ultricies vulputate vel nibh. Maecenas condimentum tristique lectus non aliquet. Quisque tempor enim eu leo varius congue. Etiam quis porttitor lectus, eu aliquet erat. Nullam ornare tortor et nisi feugiat consequat. Nulla leo ligula, efficitur quis sodales porttitor, consectetur in ipsum. Sed id eleifend quam.
+We receive a lot of assistance requests that need to be looked at and responded too. Some are clearly defined questions, some are vague and require more clarification. The Assistance Requests team is the first point of contact between SWB and people requesting assistance and due to its sensitive nature not open for public help.
 
 Responsible: @cda
 
 ## Penetration Testing
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eu enim id libero convallis egestas. Vivamus faucibus sit amet orci vel tristique. Integer et bibendum lectus, a efficitur urna. Praesent et ligula non massa semper pretium. Sed ultrices justo libero, et semper elit tincidunt sit amet. Suspendisse quis arcu vitae dui ultrices ultricies vulputate vel nibh. Maecenas condimentum tristique lectus non aliquet. Quisque tempor enim eu leo varius congue. Etiam quis porttitor lectus, eu aliquet erat. Nullam ornare tortor et nisi feugiat consequat. Nulla leo ligula, efficitur quis sodales porttitor, consectetur in ipsum. Sed id eleifend quam.
+Penetration tests are being done on a regular basis for organisations that request our help in these matters. This can be the testing of websites, mailservers and other infrastructure. Do you have penetration testing experience and would you like to help out human rights organisations in need? Then this could be the perfect team for you!
 
 Responsible: @joxean (@tek)
